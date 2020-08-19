@@ -37,3 +37,5 @@ Sending
 그것을 클릭했을때 그 사진을 확인 할 수 있는 화면으로 이동한다.
 
 
+<img width="362" alt="스크린샷 2020-08-19 오후 4 33 57" src="https://user-images.githubusercontent.com/57484647/90605789-cc7d5300-e239-11ea-82dd-81b540892a39.png">
+알림을 클릭하여 요청한 사진을 받아온 결과
